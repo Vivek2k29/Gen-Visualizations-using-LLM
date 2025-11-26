@@ -54,9 +54,9 @@ To run this project on your own machine, follow these steps:
 
 3.  **Set up your API Key:**
     * Create a file named `.env` in the root of the project.
-    * Add your Google API key to it:
+    * Add your OpenAI API key to it:
         ```
-        GOOGLE_API_KEY="your_api_key_here"
+        OpenAI_API_KEY="your_api_key_here"
         ```
 
 4.  **Run the app:**
