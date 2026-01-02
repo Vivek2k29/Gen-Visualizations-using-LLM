@@ -2,7 +2,7 @@
 
 Welcome to Genvis, a multi-functional web application built with Streamlit that harnesses the power of Google's Gemini models. This app serves as a central dashboard to interact with generative AI in various ways, from conversational chat and image analysis to in-depth document Q&A.
 
-**Live App:** [**https://genvis-4lbfbaujmx5yjhwkmz82iq.streamlit.app/**](https://genvis-4lbfbaujmx5yjhwkmz82iq.streamlit.app/)
+**Live App:** [**https://genvis-4lbfbaujmx5yjhwkmz82iq.streamlit.app/**](https://vivek2k29-gen--app-6dursn.streamlit.app/)
 
 [Image of the Genvis app interface]
 
